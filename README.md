@@ -13,5 +13,5 @@ How to SetUp
 
   
 
-Referenc by :
+Reference by :
 https://devops.tutorials24x7.com/blog/containerize-laravel-with-apache-mysql-and-mongodb-using-docker-containers
